@@ -94,10 +94,10 @@ If `gh` is not installed, the script will continue in **fail-soft mode** (repo a
 ## 📁 Expected folder layout
 
 ```
-E:\nextcloud\Projekte\
-├── pdf-quickcheck\
-├── web-subnet-calculator\
-├── another-project\
+C:\Projects\Github\
+├── Project1\
+├── Project2\
+├── Project3\
 ```
 
 Each subfolder name should match an existing GitHub repository name (or be creatable via `gh`).
@@ -113,7 +113,7 @@ Each subfolder name should match an existing GitHub repository name (or be creat
 
 ### 2) Existing git repo → push changes
 ```powershell
-.\init-and-push.ps1 pdf-quickcheck
+.\init-and-push.ps1 my-existing-project
 ```
 
 ---
