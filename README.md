@@ -1,4 +1,4 @@
-# init-and-push.ps1 (v5)
+# init-and-push.ps1
 
 A single-command PowerShell script to initialize local project folders as Git repositories and push them to GitHub.
 Optimized for a workflow where you maintain one root “Projects” folder and each subfolder maps to a GitHub repository with the same name.
