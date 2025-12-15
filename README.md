@@ -44,8 +44,8 @@ No flags required.
 ## 🔧 Defaults (hardcoded by design)
 
 ```text
-Projects Root : E:\nextcloud\Projekte
-GitHub Owner  : NilsHoeppner
+Projects Root : YOUR_PROJECTS_ROOT
+GitHub Owner  : YOUR_GITHUB_ACCOUNT
 Default Branch: main
 Remote Method : HTTPS (SSL)
 ```
