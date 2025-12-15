@@ -8,7 +8,7 @@ Optimized for a workflow where you maintain one root “Projects” folder and e
 ## ✅ One-command usage
 
 ```powershell
-.\init-and-push.ps1 pdf-quickcheck
+.\init-and-push.ps1 PROJECT-FOLDER
 ```
 
 No flags required.
